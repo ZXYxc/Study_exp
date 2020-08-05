@@ -43,8 +43,6 @@ Vue.use(ElementUI)
 Vue.use(lab_panel)
 Vue.use(cl_params_table)
 
-// Vue.component('home', home)
-// Vue.component('comment-bar', comment_bar)
 Vue.component('lab-panel', lab_panel)
 Vue.component('cl-params-table', cl_params_table)
 
